@@ -1,0 +1,14 @@
+D:\B.Tech\SEM5\WAD\Lab\CE066_Lab_2\Program2\bin\Debug\net10.0\Program2.exe
+D:\B.Tech\SEM5\WAD\Lab\CE066_Lab_2\Program2\bin\Debug\net10.0\Program2.deps.json
+D:\B.Tech\SEM5\WAD\Lab\CE066_Lab_2\Program2\bin\Debug\net10.0\Program2.runtimeconfig.json
+D:\B.Tech\SEM5\WAD\Lab\CE066_Lab_2\Program2\bin\Debug\net10.0\Program2.dll
+D:\B.Tech\SEM5\WAD\Lab\CE066_Lab_2\Program2\bin\Debug\net10.0\Program2.pdb
+D:\B.Tech\SEM5\WAD\Lab\CE066_Lab_2\Program2\obj\Debug\net10.0\Program2.GeneratedMSBuildEditorConfig.editorconfig
+D:\B.Tech\SEM5\WAD\Lab\CE066_Lab_2\Program2\obj\Debug\net10.0\Program2.AssemblyInfoInputs.cache
+D:\B.Tech\SEM5\WAD\Lab\CE066_Lab_2\Program2\obj\Debug\net10.0\Program2.AssemblyInfo.cs
+D:\B.Tech\SEM5\WAD\Lab\CE066_Lab_2\Program2\obj\Debug\net10.0\Program2.csproj.CoreCompileInputs.cache
+D:\B.Tech\SEM5\WAD\Lab\CE066_Lab_2\Program2\obj\Debug\net10.0\Program2.dll
+D:\B.Tech\SEM5\WAD\Lab\CE066_Lab_2\Program2\obj\Debug\net10.0\refint\Program2.dll
+D:\B.Tech\SEM5\WAD\Lab\CE066_Lab_2\Program2\obj\Debug\net10.0\Program2.pdb
+D:\B.Tech\SEM5\WAD\Lab\CE066_Lab_2\Program2\obj\Debug\net10.0\Program2.genruntimeconfig.cache
+D:\B.Tech\SEM5\WAD\Lab\CE066_Lab_2\Program2\obj\Debug\net10.0\ref\Program2.dll

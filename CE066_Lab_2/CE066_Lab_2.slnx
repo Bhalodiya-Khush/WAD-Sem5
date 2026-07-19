@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CE066_Lab_2/Program1.csproj" />
+  <Project Path="Program2/Program2.csproj" />
+  <Project Path="Program3/Program3.csproj" Id="a879d19f-5969-4da0-956c-98b5e031eb63" />
+  <Project Path="Program4/Program4.csproj" Id="cf526430-606a-4026-924f-619cb17dc3ca" />
+</Solution>

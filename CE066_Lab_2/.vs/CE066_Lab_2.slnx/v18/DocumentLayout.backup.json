@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\B.Tech\\SEM5\\WAD\\Lab\\CE066_Lab_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF526430-606A-4026-924F-619CB17DC3CA}|Program4\\Program4.csproj|d:\\b.tech\\sem5\\wad\\lab\\ce066_lab_2\\program4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF526430-606A-4026-924F-619CB17DC3CA}|Program4\\Program4.csproj|solutionrelative:program4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B.Tech\\SEM5\\WAD\\Lab\\CE066_Lab_2\\Program4\\Program.cs",
+              "RelativeDocumentMoniker": "Program4\\Program.cs",
+              "ToolTip": "D:\\B.Tech\\SEM5\\WAD\\Lab\\CE066_Lab_2\\Program4\\Program.cs",
+              "RelativeToolTip": "Program4\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T12:46:51.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
