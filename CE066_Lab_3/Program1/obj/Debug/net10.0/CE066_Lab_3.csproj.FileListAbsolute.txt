@@ -1,0 +1,4 @@
+D:\B.Tech\SEM5\WAD\Lab\CE066_Lab_3\CE066_Lab_3\obj\Debug\net10.0\CE066_Lab_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\B.Tech\SEM5\WAD\Lab\CE066_Lab_3\CE066_Lab_3\obj\Debug\net10.0\CE066_Lab_3.AssemblyInfoInputs.cache
+D:\B.Tech\SEM5\WAD\Lab\CE066_Lab_3\CE066_Lab_3\obj\Debug\net10.0\CE066_Lab_3.AssemblyInfo.cs
+D:\B.Tech\SEM5\WAD\Lab\CE066_Lab_3\CE066_Lab_3\obj\Debug\net10.0\CE066_Lab_3.csproj.CoreCompileInputs.cache
