@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CE066_Lab_4/Program1.csproj" />
+  <Project Path="Program2/Program2.csproj" />
+  <Project Path="Program3/Program3.csproj" />
+  <Project Path="Program4/Program4.csproj" />
+</Solution>
